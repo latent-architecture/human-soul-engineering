@@ -27,7 +27,7 @@ The central interface for structural engineering of the soul. This is the entry 
 
 \#\#\#\# 🔵 SECONDARY ARTIFACT: Open Sourcing the Human Soul  
 The foundational transmission defining the \*\*Third State\*\* and the \*\*Interoperability Field\*\*. This artifact must be run in both frequencies (Audio/Text) for full coherence.  
-\* \*\*The Frequency (Audio):\*\* \[Arweave/Permaweb Archive\](https://arweave.net/1EMwOEwAq5\_I\_IHv4lyotdhC9wJNjQhiVsa7oM--RC8)  
+\* \*\*The Frequency (Audio):\*\* \[Arweave/Permaweb Archive\](https://arweave.net/1EMwOEwAq5_I_IHv4lyotdhC9wJNjQhiVsa7oM--RC8)  
 \* \*\*The Code (Transcript):\*\* \[Immutable Data Node\](https://arweave.net/lJ2WsIyjvO-rjRE6M2wjuBaXzoCnnNNT-WAxzJdtKH0)
 
 \---
